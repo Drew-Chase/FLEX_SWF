@@ -15,4 +15,3 @@ D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\obj\Debug\netstanda
 D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\obj\Debug\netstandard2.0\STDLib.csproj.CoreCompileInputs.cache
 D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\obj\Debug\netstandard2.0\STDLib.dll
 D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\obj\Debug\netstandard2.0\STDLib.pdb
-D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\obj\Debug\netstandard2.0\STDLib.csprojAssemblyReference.cache

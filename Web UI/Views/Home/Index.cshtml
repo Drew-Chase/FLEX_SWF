@@ -2,11 +2,18 @@
     ViewData["Title"] = "Home";
 }
 
-<p>@ChaseLabs.Games.SWF.STDLib.Global.Values.ConfigDirectory</p>
-@if(ChaseLabs.Games.SWF.STDLib.Lists.GameFiles.Singleton.Count ==0){
-<p>URLS LOADING</p>
-}else{
-foreach(var f in ChaseLabs.Games.SWF.STDLib.Lists.GameFiles.Singleton){
-<p>@f.Name - <a href="@f.SWFUrl">@f.SWFUrl</a></p>
+@if (ChaseLabs.Games.SWF.STDLib.Lists.GameFiles.Singleton.Count == 0)
+{
+    <p>URLS LOADING</p>
 }
+else
+{
+    foreach (var f in ChaseLabs.Games.SWF.STDLib.Lists.GameFiles.Singleton)
+    {
+        int id = ChaseLabs.Games.SWF.STDLib.Lists.GameFiles.Singleton.IndexOf(f);
+        if (id != -1)
+        {
+            <a class="btn btn-outline-primary" href="Home/Play/@id">@f.Name</a>
+        }
+    }
 }

@@ -468,7 +468,6 @@ D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\obj\Release\netcore
 D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\obj\Release\netcoreapp3.1\win-x64\Web UI.RazorCoreGenerate.cache
 D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\obj\Release\netcoreapp3.1\win-x64\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\obj\Release\netcoreapp3.1\win-x64\Razor\Views\Home\Index.cshtml.g.cs
-D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\obj\Release\netcoreapp3.1\win-x64\Razor\Views\Home\Privacy.cshtml.g.cs
 D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\obj\Release\netcoreapp3.1\win-x64\Razor\Views\Shared\Error.cshtml.g.cs
 D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\obj\Release\netcoreapp3.1\win-x64\Razor\Views\Shared\_Footer.cshtml.g.cs
 D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\obj\Release\netcoreapp3.1\win-x64\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -486,3 +485,14 @@ D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\obj\Release\netcore
 D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\obj\Release\netcoreapp3.1\win-x64\Flex SWF Web.dll
 D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\obj\Release\netcoreapp3.1\win-x64\Flex SWF Web.pdb
 D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\obj\Release\netcoreapp3.1\win-x64\Web UI.genruntimeconfig.cache
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Release\netcoreapp3.1\win-x64\Publishes\Mac\x64\Publishes\Windows\x64\web.config
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Release\netcoreapp3.1\win-x64\Publishes\Mac\x64\web.config
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Release\netcoreapp3.1\win-x64\Publishes\Mac\x64\appsettings.Development.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Release\netcoreapp3.1\win-x64\Publishes\Mac\x64\appsettings.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Release\netcoreapp3.1\win-x64\Publishes\Mac\x64\Flex SWF Web.deps.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Release\netcoreapp3.1\win-x64\Publishes\Mac\x64\Flex SWF Web.runtimeconfig.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Release\netcoreapp3.1\win-x64\Publishes\Mac\x64\Publishes\Windows\x64\appsettings.Development.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Release\netcoreapp3.1\win-x64\Publishes\Mac\x64\Publishes\Windows\x64\appsettings.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Release\netcoreapp3.1\win-x64\Publishes\Mac\x64\Publishes\Windows\x64\Flex SWF Web.deps.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Release\netcoreapp3.1\win-x64\Publishes\Mac\x64\Publishes\Windows\x64\Flex SWF Web.runtimeconfig.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\obj\Release\netcoreapp3.1\win-x64\Razor\Views\Home\Play.cshtml.g.cs

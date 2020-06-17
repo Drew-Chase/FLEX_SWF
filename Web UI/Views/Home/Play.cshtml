@@ -1,0 +1,7 @@
+﻿@model ChaseLabs.Games.SWF.STDLib.Objects.GameFile
+@{
+    ViewData["Title"] = $"Play {Model.Name}";
+}
+<h1>@Model.Name</h1>
+
+<embed src="@Model.SWFUrl" width="800" height="600" />

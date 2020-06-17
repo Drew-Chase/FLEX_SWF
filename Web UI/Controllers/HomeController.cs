@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using ChaseLabs.Games.SWF.STDLib.Global;
 using ChaseLabs.Games.SWF.STDLib.Lists;
+using ChaseLabs.Games.SWF.STDLib.Objects;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Web_UI.Models;
@@ -25,9 +26,10 @@ namespace Web_UI.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Play(int id)
         {
-            return View();
+            GameFile file = GameFiles.Singleton.ElementAt(id);
+            return View(file);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
