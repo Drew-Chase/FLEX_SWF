@@ -1,0 +1,9 @@
+C:\Users\xxxio\source\repos\Scrotal Grabber\STDLib\bin\Debug\netstandard2.0\STDLib.deps.json
+C:\Users\xxxio\source\repos\Scrotal Grabber\STDLib\bin\Debug\netstandard2.0\STDLib.dll
+C:\Users\xxxio\source\repos\Scrotal Grabber\STDLib\obj\Debug\netstandard2.0\STDLib.csprojAssemblyReference.cache
+C:\Users\xxxio\source\repos\Scrotal Grabber\STDLib\obj\Debug\netstandard2.0\STDLib.AssemblyInfoInputs.cache
+C:\Users\xxxio\source\repos\Scrotal Grabber\STDLib\obj\Debug\netstandard2.0\STDLib.AssemblyInfo.cs
+C:\Users\xxxio\source\repos\Scrotal Grabber\STDLib\bin\Debug\netstandard2.0\STDLib.pdb
+C:\Users\xxxio\source\repos\Scrotal Grabber\STDLib\obj\Debug\netstandard2.0\STDLib.csproj.CoreCompileInputs.cache
+C:\Users\xxxio\source\repos\Scrotal Grabber\STDLib\obj\Debug\netstandard2.0\STDLib.dll
+C:\Users\xxxio\source\repos\Scrotal Grabber\STDLib\obj\Debug\netstandard2.0\STDLib.pdb

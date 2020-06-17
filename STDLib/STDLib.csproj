@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>ChaseLabs.Games.SWF.STDLib</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ChaseLabs.Configuration" Version="0.0.4" />
+    <PackageReference Include="ChaseLabs.Logger" Version="0.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Networking\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Spvs2OZETuIV1j8oQpN4/66UQjv1NoxqtU2sDa8P4+uqQnQolY5mn76zFDeK8d3JUhZ16Klg1A7RcBV4bCxrDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xxxio\\source\\repos\\Scrotal Grabber\\STDLib\\STDLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxxio\\.nuget\\packages\\chaselabs.configuration\\0.0.4\\chaselabs.configuration.0.0.4.nupkg.sha512",
+    "C:\\Users\\xxxio\\.nuget\\packages\\chaselabs.logger\\0.0.8\\chaselabs.logger.0.0.8.nupkg.sha512",
+    "C:\\Users\\xxxio\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\xxxio\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
