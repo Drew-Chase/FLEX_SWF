@@ -7,3 +7,12 @@ C:\Users\xxxio\source\repos\Scrotal Grabber\STDLib\bin\Debug\netstandard2.0\STDL
 C:\Users\xxxio\source\repos\Scrotal Grabber\STDLib\obj\Debug\netstandard2.0\STDLib.csproj.CoreCompileInputs.cache
 C:\Users\xxxio\source\repos\Scrotal Grabber\STDLib\obj\Debug\netstandard2.0\STDLib.dll
 C:\Users\xxxio\source\repos\Scrotal Grabber\STDLib\obj\Debug\netstandard2.0\STDLib.pdb
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\bin\Debug\netstandard2.0\STDLib.deps.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\bin\Debug\netstandard2.0\STDLib.dll
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\bin\Debug\netstandard2.0\STDLib.pdb
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\obj\Debug\netstandard2.0\STDLib.AssemblyInfoInputs.cache
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\obj\Debug\netstandard2.0\STDLib.AssemblyInfo.cs
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\obj\Debug\netstandard2.0\STDLib.csproj.CoreCompileInputs.cache
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\obj\Debug\netstandard2.0\STDLib.dll
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\obj\Debug\netstandard2.0\STDLib.pdb
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\obj\Debug\netstandard2.0\STDLib.csprojAssemblyReference.cache

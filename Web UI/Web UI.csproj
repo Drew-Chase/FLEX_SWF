@@ -4,6 +4,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UserSecretsId>aspnet-Web_UI-A7FAE8ED-26D6-4674-B321-93578096AC70</UserSecretsId>
     <RootNamespace>Web_UI</RootNamespace>
+    <AssemblyName>Flex SWF Web</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>

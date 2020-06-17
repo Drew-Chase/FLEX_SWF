@@ -8,16 +8,15 @@ namespace Web_UI
     {
         public static void Main(string[] args)
         {
+            Functions.GrabAssAsync();
             try
-            {
-                CreateHostBuilder(args).Build().Run();
-            }
-            catch
             {
                 CreateAltHostBuilder(args).Build().Run();
             }
-
-            Functions.GrabAss();
+            catch
+            {
+                CreateHostBuilder(args).Build().Run();
+            }
 
         }
 
