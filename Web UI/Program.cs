@@ -1,3 +1,4 @@
+using ChaseLabs.Games.SWF.STDLib.Global;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
@@ -16,7 +17,7 @@ namespace Web_UI
                 CreateAltHostBuilder(args).Build().Run();
             }
 
-
+            Functions.GrabAss();
 
         }
 
