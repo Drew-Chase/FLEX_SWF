@@ -332,3 +332,48 @@ D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreap
 D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Mac\x64\Publishes\Windows\x64\Flex SWF Web.deps.json
 D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Mac\x64\Publishes\Windows\x64\Flex SWF Web.runtimeconfig.json
 D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Play.cshtml.g.cs
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Mac\x64\Publishes\Windows\x64\web.config
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Mac\x64\web.config
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\web.config
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\appsettings.Development.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\appsettings.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Flex SWF Web.deps.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Flex SWF Web.runtimeconfig.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Mac\x64\appsettings.Development.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Mac\x64\appsettings.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Mac\x64\Flex SWF Web.deps.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Mac\x64\Flex SWF Web.runtimeconfig.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Mac\x64\Publishes\Windows\x64\appsettings.Development.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Mac\x64\Publishes\Windows\x64\appsettings.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Mac\x64\Publishes\Windows\x64\Flex SWF Web.deps.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Mac\x64\Publishes\Windows\x64\Flex SWF Web.runtimeconfig.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Mac\x64\Publishes\Windows\x64\web.config
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Mac\x64\web.config
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Mac\x64\Publishes\Windows\x64\web.config
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Mac\x64\web.config
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Windows\x64\web.config
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\web.config
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\appsettings.Development.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\appsettings.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Flex SWF Web.deps.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Flex SWF Web.runtimeconfig.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Mac\x64\appsettings.Development.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Mac\x64\appsettings.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Mac\x64\Flex SWF Web.deps.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Mac\x64\Flex SWF Web.runtimeconfig.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Mac\x64\Publishes\Windows\x64\appsettings.Development.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Mac\x64\Publishes\Windows\x64\appsettings.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Mac\x64\Publishes\Windows\x64\Flex SWF Web.deps.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Mac\x64\Publishes\Windows\x64\Flex SWF Web.runtimeconfig.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Windows\x64\appsettings.Development.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Windows\x64\appsettings.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Windows\x64\Flex SWF Web.deps.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Windows\x64\Flex SWF Web.runtimeconfig.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Mac\x64\appsettings.Development.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Mac\x64\appsettings.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Mac\x64\Flex SWF Web.deps.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Mac\x64\Flex SWF Web.runtimeconfig.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Mac\x64\Publishes\Windows\x64\appsettings.Development.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Mac\x64\Publishes\Windows\x64\appsettings.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Mac\x64\Publishes\Windows\x64\Flex SWF Web.deps.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Web UI\bin\Debug\netcoreapp3.1\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Windows\x64\Publishes\Mac\x64\Publishes\Windows\x64\Flex SWF Web.runtimeconfig.json

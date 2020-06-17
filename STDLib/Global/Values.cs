@@ -28,6 +28,6 @@ namespace ChaseLabs.Games.SWF.STDLib.Global
             }
         }
 
-        public static string GistURL => "https://gist.githubusercontent.com/DcmanProductions/b0cdbacbe543f41aa337adb0ed4533f6/raw/a3b837180ea9217acc63922d0cbb479f72c98519/Compiled%2520Flash%2520Game%2520Archive.conf";
+        public static string GistURL => "https://gist.githubusercontent.com/Shroototem/61c54cf465479f4e437e537230f83dc0/raw/1054313ed017f41cf2c7ef2ae6c2fcebba7bb08c/Compiled%2520Flash%2520Game%2520Archive.conf";
     }
 }

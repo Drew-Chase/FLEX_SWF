@@ -21,15 +21,18 @@ namespace Web_UI.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Index(int page = 0)
         {
-            return View();
+            return View(page);
         }
 
-        public IActionResult Play(int id)
+        public IActionResult Play(string name)
         {
-            GameFile file = GameFiles.Singleton.ElementAt(id);
-            return View(file);
+            GameFile file = null;
+            GameFiles.Singleton.ForEach((n) => { if (n.Name.Equals(name)) file = n; });
+            if (file != null)
+                return View(file);
+            return RedirectToAction("Index", 0);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
