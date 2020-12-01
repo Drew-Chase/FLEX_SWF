@@ -4,7 +4,13 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UserSecretsId>aspnet-Web_UI-A7FAE8ED-26D6-4674-B321-93578096AC70</UserSecretsId>
     <RootNamespace>Web_UI</RootNamespace>
-    <AssemblyName>Flex SWF Web</AssemblyName>
+    <AssemblyName>flex service</AssemblyName>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <Optimize>true</Optimize>
+    <OutputPath>D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\Launch Application\bin\Debug\</OutputPath>
   </PropertyGroup>
 
   <ItemGroup>
@@ -17,6 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Launch Application\Launch Application.csproj" />
     <ProjectReference Include="..\STDLib\STDLib.csproj" />
   </ItemGroup>
 

@@ -1,10 +1,13 @@
 ﻿@{
-    ViewData["Title"] = "Home";
-    ViewData["Files"] = ChaseLabs.Games.SWF.STDLib.Lists.GameFiles.Singleton;
-    int items_per_page = (int)ViewData["items_per_page"];
+    int items_per_page = 50;
     int index = 0;
     List<ChaseLabs.Games.SWF.STDLib.Objects.GameFile> full = (List<ChaseLabs.Games.SWF.STDLib.Objects.GameFile>)ViewData["Files"];
     List<ChaseLabs.Games.SWF.STDLib.Objects.GameFile> col1 = new List<ChaseLabs.Games.SWF.STDLib.Objects.GameFile>(), col2 = new List<ChaseLabs.Games.SWF.STDLib.Objects.GameFile>(), col3 = new List<ChaseLabs.Games.SWF.STDLib.Objects.GameFile>();
+}
+
+@if (full == null)
+{
+    <p>ITS NULL DUMBASS</p>
 }
 
 @if (full.Count == 0)
@@ -72,26 +75,26 @@ else
             <ul class="pagination">
                 @if (Model != 0)
                 {
-                    <li class="page-item"><a class="page-link" href="/Home/Index?page=0&items=@items_per_page">First</a></li>
-                    <li class="page-item"><a class="page-link" href="/Home/Index?page=@(Model - 1)&items=@items_per_page">Previous</a></li>
+                    <li class="page-item"><a class="page-link" href="/Home/Index?page=0">First</a></li>
+                    <li class="page-item"><a class="page-link" href="/Home/Index?page=@(Model - 1)">Previous</a></li>
 
                     @if ((Model - 5) >= 0)
                     {
-                        <li class="page-item"><a class="page-link" href="/Home/Index?page=@(Model - 5)&items=@items_per_page">@(Model-5)</a></li>
+                        <li class="page-item"><a class="page-link" href="/Home/Index?page=@(Model - 5)">@(Model-5)</a></li>
                     }
                     @if ((Model - 4) >= 0)
                     {
-                        <li class="page-item"><a class="page-link" href="/Home/Index?page=@(Model - 4)&items=@items_per_page">@(Model-4)</a></li>
+                        <li class="page-item"><a class="page-link" href="/Home/Index?page=@(Model - 4)">@(Model-4)</a></li>
                     }
                     @if ((Model - 3) >= 0)
                     {
-                        <li class="page-item"><a class="page-link" href="/Home/Index?page=@(Model - 3)&items=@items_per_page">@(Model-3)</a></li>
+                        <li class="page-item"><a class="page-link" href="/Home/Index?page=@(Model - 3)">@(Model-3)</a></li>
                     }
                     @if ((Model - 2) >= 0)
                     {
-                        <li class="page-item"><a class="page-link" href="/Home/Index?page=@(Model - 2)&items=@items_per_page">@(Model-2)</a></li>
+                        <li class="page-item"><a class="page-link" href="/Home/Index?page=@(Model - 2)">@(Model-2)</a></li>
                     }
-                    <li class="page-item"><a class="page-link" href="/Home/Index?page=@(Model - 1)&items=@items_per_page">@(Model-1)</a></li>
+                    <li class="page-item"><a class="page-link" href="/Home/Index?page=@(Model - 1)">@(Model-1)</a></li>
                 }
                 else
                 {
@@ -99,30 +102,30 @@ else
                     <li class="page-item disabled"><a class="page-link" href="#" tabindex="-1">Previous</a></li>
                 }
                 <li class="page-item active">
-                    <a class="page-link" href="/Home/Index?page=@Model&items=@items_per_page">@Model <span class="sr-only">(current)</span></a>
+                    <a class="page-link" href="/Home/Index?page=@Model">@Model <span class="sr-only">(current)</span></a>
                 </li>
                 @if (Model != (full.Count / items_per_page))
                 {
-                    <li class="page-item"><a class="page-link" href="/Home/Index?page=@(Model + 1)&items=@items_per_page">@(Model + 1)</a></li>
+                    <li class="page-item"><a class="page-link" href="/Home/Index?page=@(Model + 1)">@(Model + 1)</a></li>
                     @if ((Model + 2) <= (full.Count / items_per_page))
                     {
-                        <li class="page-item"><a class="page-link" href="/Home/Index?page=@(Model + 2)&items=@items_per_page">@(Model + 2)</a></li>
+                        <li class="page-item"><a class="page-link" href="/Home/Index?page=@(Model + 2)">@(Model + 2)</a></li>
                     }
                     @if ((Model + 3) <= (full.Count / items_per_page))
                     {
-                        <li class="page-item"><a class="page-link" href="/Home/Index?page=@(Model + 3)&items=@items_per_page">@(Model + 3)</a></li>
+                        <li class="page-item"><a class="page-link" href="/Home/Index?page=@(Model + 3)">@(Model + 3)</a></li>
                     }
                     @if ((Model + 4) <= (full.Count / items_per_page))
                     {
-                        <li class="page-item"><a class="page-link" href="/Home/Index?page=@(Model + 4)&items=@items_per_page">@(Model + 4)</a></li>
+                        <li class="page-item"><a class="page-link" href="/Home/Index?page=@(Model + 4)">@(Model + 4)</a></li>
                     }
                     @if ((Model + 5) <= (full.Count / items_per_page))
                     {
-                        <li class="page-item"><a class="page-link" href="/Home/Index?page=@(Model + 5)&items=@items_per_page">@(Model + 5)</a></li>
+                        <li class="page-item"><a class="page-link" href="/Home/Index?page=@(Model + 5)">@(Model + 5)</a></li>
                     }
 
-                    <li class="page-item"><a class="page-link" href="/Home/Index?page=@(Model + 1)&items=@items_per_page">Next</a></li>
-                    <li class="page-item"><a class="page-link" href="/Home/Index?page=@(full.Count / items_per_page)&items=@items_per_page">Last</a></li>
+                    <li class="page-item"><a class="page-link" href="/Home/Index?page=@(Model + 1)">Next</a></li>
+                    <li class="page-item"><a class="page-link" href="/Home/Index?page=@(full.Count / items_per_page)">Last</a></li>
                 }
                 else
                 {

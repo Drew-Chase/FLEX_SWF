@@ -1,5 +1,5 @@
 ﻿<header>
-    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark border-bottom box-shadow mb-3">
         <div class="container">
             <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">@ChaseLabs.Games.SWF.STDLib.Global.Values.ApplicationName</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
@@ -8,10 +8,15 @@
             </button>
             <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
                 <partial name="_LoginPartial" />
+                @if (ChaseLabs.Games.SWF.STDLib.Singleton.Data.SessionInformation.Singleton.IsSignedIn)
+                {
+                    <a class="btn btn-outline-primary" style="position:absolute; right: 20px;" asp-action="RefreshDatabase">Refresh</a>
+                }
                 <ul class="navbar-nav flex-grow-1">
                     <li class="nav-item">
-                        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                     </li>
+                    @Html.Partial("_SearchBar")
                 </ul>
             </div>
         </div>

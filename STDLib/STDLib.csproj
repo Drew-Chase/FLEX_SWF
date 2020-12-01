@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>ChaseLabs.Games.SWF.STDLib</RootNamespace>
+    <AssemblyName>FFSWFLib</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>

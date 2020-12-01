@@ -14,6 +14,9 @@ namespace ChaseLabs.Games.SWF.STDLib.Global
         public static string CompanyURL => "https://drewchaseproject.com";
         public static string ConfigFileName => "Settings.cfg";
         public static string ConfigFilePath => Path.Combine(ConfigDirectory, ConfigFileName);
+
+        public static int Port { get { return ConfigurationHandler.Singleton.manager.GetConfigByKey("Web UI Port").ParseInt(); } set { ConfigurationHandler.Singleton.manager.GetConfigByKey("Web UI Port").Value = "" + value; } }
+
         public static string ConfigDirectory
         {
             get
@@ -28,6 +31,6 @@ namespace ChaseLabs.Games.SWF.STDLib.Global
             }
         }
 
-        public static string GistURL => "https://gist.githubusercontent.com/Shroototem/61c54cf465479f4e437e537230f83dc0/raw/1054313ed017f41cf2c7ef2ae6c2fcebba7bb08c/Compiled%2520Flash%2520Game%2520Archive.conf";
+        public static string GistURL => "https://gist.githubusercontent.com/Shroototem/61c54cf465479f4e437e537230f83dc0/raw/";
     }
 }

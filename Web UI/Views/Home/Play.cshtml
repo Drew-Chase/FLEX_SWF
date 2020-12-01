@@ -2,6 +2,44 @@
 @{
     ViewData["Title"] = $"Play {Model.Name}";
 }
-<h1>@Model.Name</h1>
 
-<embed src="@Model.SWFUrl" width="800" height="600" />
+<style>
+    i#fullscreen-button {
+        margin-left: 50px;
+        font-size: 45px;
+    }
+
+        i#fullscreen-button:hover {
+            transform: scale(1.1);
+            transition: .2s;
+        }
+</style>
+
+<h1>@Model.Name<i onClick="toggleFullscreen()" class="fas fa-expand" id="fullscreen-button"></i> </h1>
+
+
+<embed id="flash_game" src="@Model.SWFUrl" style="min-width: 800px; min-height: 600px;  width: auto; height: auto;" />
+@if (ChaseLabs.Games.SWF.STDLib.Singleton.Data.SessionInformation.Singleton.IsSignedIn)
+{
+}
+else
+{
+    <h2>You Need to Be Logged in to Play...</h2>
+}
+
+<script>
+
+    function toggleFullscreen() {
+        var portal = document.getElementById('flash_game');
+        if (portal.requestFullscreen) {
+            portal.requestFullscreen();
+        } else if (portal.mozRequestFullScreen) { /* Firefox */
+            portal.mozRequestFullScreen();
+        } else if (portal.webkitRequestFullscreen) { /* Chrome, Safari & Opera */
+            portal.webkitRequestFullscreen();
+        } else if (portal.msRequestFullscreen) { /* IE/Edge */
+            portal.msRequestFullscreen();
+        }
+    }
+
+</script>

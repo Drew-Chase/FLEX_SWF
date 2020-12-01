@@ -17,12 +17,12 @@ namespace ChaseLabs.Games.SWF.STDLib.Global
             }
         }
 
-        ConfigManager manager;
+        public ConfigManager manager;
 
         private ConfigurationHandler()
         {
             manager = new ConfigManager(Values.ConfigFilePath);
-
+            manager.Add(new CLConfiguration.Object.Config("Web UI Port", "5050", manager));
         }
 
     }

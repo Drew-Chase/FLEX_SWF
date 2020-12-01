@@ -1,9 +1,9 @@
-D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\bin\Release\netstandard2.0\STDLib.deps.json
-D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\bin\Release\netstandard2.0\STDLib.dll
-D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\bin\Release\netstandard2.0\STDLib.pdb
 D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\obj\Release\netstandard2.0\STDLib.csprojAssemblyReference.cache
 D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\obj\Release\netstandard2.0\STDLib.AssemblyInfoInputs.cache
 D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\obj\Release\netstandard2.0\STDLib.AssemblyInfo.cs
 D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\obj\Release\netstandard2.0\STDLib.csproj.CoreCompileInputs.cache
-D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\obj\Release\netstandard2.0\STDLib.dll
-D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\obj\Release\netstandard2.0\STDLib.pdb
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\bin\Release\netstandard2.0\FFSWFLib.deps.json
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\bin\Release\netstandard2.0\FFSWFLib.dll
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\bin\Release\netstandard2.0\FFSWFLib.pdb
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\obj\Release\netstandard2.0\FFSWFLib.dll
+D:\Workspaces\Visual Studio Workspace\C#\Web\FLEX_SWF\STDLib\obj\Release\netstandard2.0\FFSWFLib.pdb

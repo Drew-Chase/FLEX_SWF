@@ -19,8 +19,9 @@ namespace ChaseLabs.Games.SWF.STDLib.Global
 
         public static void GrabAss()
         {
-            GameFiles.Singleton.Clear();
             string manifest = Path.Combine(Values.ConfigDirectory, "Manfest.cfg");
+            DisposeASS(manifest);
+            GameFiles.Singleton.Clear();
             using (var client = new System.Net.WebClient())
             {
                 client.DownloadFile(Values.GistURL, manifest);
@@ -28,7 +29,26 @@ namespace ChaseLabs.Games.SWF.STDLib.Global
             }
             ConfigManager manager = new ConfigManager(manifest);
             manager.List().ForEach((n) => GameFiles.Singleton.Add(new Objects.GameFile() { Name = n.Key, SWFUrl = n.Value }));
-            if (File.Exists(manifest)) File.Delete(manifest);
+            DisposeASS(manifest);
+        }
+
+        static void DisposeASS(string manifest)
+        {
+            DisposeASS(manifest, 0);
+        }
+
+        static void DisposeASS(string manifest, int attempt)
+        {
+            if (attempt > 10) return;
+            try
+            {
+                if (File.Exists(manifest)) File.Delete(manifest);
+            }
+            catch
+            {
+                Console.WriteLine($"Attempt #{attempt} Failed");
+                DisposeASS(manifest, attempt++);
+            }
         }
     }
 }

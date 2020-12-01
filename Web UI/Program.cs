@@ -1,6 +1,7 @@
 using ChaseLabs.Games.SWF.STDLib.Global;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
+using System.Diagnostics;
 
 namespace Web_UI
 {
@@ -34,7 +35,7 @@ namespace Web_UI
                  {
                      webBuilder.UseStartup<Startup>().UseKestrel(options =>
                      {
-                         int port = 5050;
+                         int port = Values.Port;
                          if (args.Length > 0)
                          {
                              int.TryParse(args[0], out port);
@@ -51,7 +52,6 @@ namespace Web_UI
                          {
                              options.ListenAnyIP(port);
                          }
-
                      });
                  });
     }
